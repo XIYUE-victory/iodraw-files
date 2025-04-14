@@ -5,12 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wpGcuBxa0yiRDIrVlw6B-1" value="1.选择修改病床名称" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="wpGcuBxa0yiRDIrVlw6B-20">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0056" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
             </Array>
             <mxPoint x="94.07142857142821" y="959" as="sourcePoint" />
             <mxPoint x="404.5" y="959" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wpGcuBxa0yiRDIrVlw6B-2" value="1.1获取病床分类列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="wpGcuBxa0yiRDIrVlw6B-22">
