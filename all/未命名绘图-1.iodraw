@@ -56,33 +56,6 @@
             <mxPoint x="404.5" y="1475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-38" value="提示不能为空或格式错误" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="566" y="1630" />
-            </Array>
-            <mxPoint x="1012.5" y="1630" as="sourcePoint" />
-            <mxPoint x="94.07142857142821" y="1630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-41" value="显示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="262" y="1839" />
-            </Array>
-            <mxPoint x="404.5" y="1839" as="sourcePoint" />
-            <mxPoint x="94.07142857142821" y="1839" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-42" value="提交图书信息后检查是否重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="259" y="1903" />
-            </Array>
-            <mxPoint x="94.07142857142821" y="1903" as="sourcePoint" />
-            <mxPoint x="404.5" y="1902.9999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-45" value="无重复，添加完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
