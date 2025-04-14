@@ -352,6 +352,9 @@
         <mxCell id="wpGcuBxa0yiRDIrVlw6B-149" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1275" y="1040" width="10" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="wpGcuBxa0yiRDIrVlw6B-151" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;1.1.1 显示病床分类列表（）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
