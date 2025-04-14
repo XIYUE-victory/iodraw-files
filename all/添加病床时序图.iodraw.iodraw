@@ -189,7 +189,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wpGcuBxa0yiRDIrVlw6B-116" value="2.1.1.3 添加病床（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="wpGcuBxa0yiRDIrVlw6B-116" value="2.1.1.3 添加病床()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="0.0028" width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="1520" as="sourcePoint" />
             <mxPoint x="1470" y="1520" as="targetPoint" />
