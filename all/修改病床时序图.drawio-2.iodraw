@@ -123,9 +123,10 @@
           <mxGeometry x="1080" y="1000" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-77" value="1.1.1 显示病床分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="0.0075" width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="1040" as="sourcePoint" />
             <mxPoint x="1280" y="1040" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-81" value="1.1.1.1 病床分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-76" edge="1">
@@ -348,7 +349,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-pJ8RF_7VQoTUQPZEHdb-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1275" y="1045" width="10" height="80" as="geometry" />
+          <mxGeometry x="1275" y="1040" width="10" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
