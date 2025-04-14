@@ -47,15 +47,6 @@
             <mxPoint x="420" y="1151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-32" value="选择分类后添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="248.93" y="1230" />
-            </Array>
-            <mxPoint x="84.00142857142822" y="1230.0000000000002" as="sourcePoint" />
-            <mxPoint x="394.43" y="1230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-35" value="显示图书详细信息（若无则跳过）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -254,6 +245,12 @@
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-84" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="399" y="1120" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-85" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="520" y="1060" as="sourcePoint" />
+            <mxPoint x="600" y="1060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
