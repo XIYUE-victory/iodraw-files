@@ -21,13 +21,6 @@
             <mxPoint x="1080" y="1020.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wpGcuBxa0yiRDIrVlw6B-3" value="返回图书分类列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;endArrow=block;fontSize=16;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="620" y="1155" as="sourcePoint" />
-            <mxPoint x="409" y="1154.6442857142858" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wpGcuBxa0yiRDIrVlw6B-4" value="显示图书详细信息（若无则跳过）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
