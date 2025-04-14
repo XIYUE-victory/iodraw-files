@@ -136,7 +136,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wpGcuBxa0yiRDIrVlw6B-107" value="1.1.2 显示（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="wpGcuBxa0yiRDIrVlw6B-107" value="1.1.2 显示()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1080" y="1100" as="sourcePoint" />
             <mxPoint x="630" y="1100" as="targetPoint" />
