@@ -4,6 +4,94 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="GkTaQrSW37zhqM8958kx-0" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="20" width="150" height="804" as="geometry" />
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-1" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="363" y="20" width="150" height="804" as="geometry" />
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-2" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="563" y="20" width="150" height="804" as="geometry" />
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-3" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="84" y="311" width="365" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-4" value="[图书信息为空或者不完整]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="GkTaQrSW37zhqM8958kx-3">
+          <mxGeometry x="30" width="335" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-5" value="[图书名称重复]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="GkTaQrSW37zhqM8958kx-3">
+          <mxGeometry y="106" width="365" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-6" value="请求图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-0" target="GkTaQrSW37zhqM8958kx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-7" value="查询图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-1" target="GkTaQrSW37zhqM8958kx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="547" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-8" value="返回图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-2" target="GkTaQrSW37zhqM8958kx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-9" value="显示图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-1" target="GkTaQrSW37zhqM8958kx-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-10" value="异常事件流：图书信息为空或者不完整" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-1" target="GkTaQrSW37zhqM8958kx-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-11" value="异常事件流：图书名称重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-1" target="GkTaQrSW37zhqM8958kx-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-12" value="请求结束" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-0" target="GkTaQrSW37zhqM8958kx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="557" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-13" value="更新数据库状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-1" target="GkTaQrSW37zhqM8958kx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="547" y="611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-14" value="更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-2" target="GkTaQrSW37zhqM8958kx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-15" value="基本事件流结束" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-1" target="GkTaQrSW37zhqM8958kx-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="719" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
