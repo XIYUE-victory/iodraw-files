@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="380.0000000000002" y="1013" as="sourcePoint" />
-            <mxPoint x="1080" y="1000" as="targetPoint" />
+            <mxPoint x="1080" y="1006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-29" value="显示图书分类列表" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
