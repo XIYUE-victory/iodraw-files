@@ -311,7 +311,7 @@
         <mxCell id="nJy7dzR17WLapN9tB9al-63" value="&lt;span style=&quot;font-size: 16px; text-align: left; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2.1 检测界面信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="1200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nJy7dzR17WLapN9tB9al-64" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2.1.1 修改病床信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nJy7dzR17WLapN9tB9al-64" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2.1.1 查看病床信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="1270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJy7dzR17WLapN9tB9al-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=16;" edge="1" parent="1" source="nJy7dzR17WLapN9tB9al-62" target="nJy7dzR17WLapN9tB9al-66">
