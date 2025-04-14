@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wpGcuBxa0yiRDIrVlw6B-1" value="1.选择修改病床名称" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="wpGcuBxa0yiRDIrVlw6B-20">
+        <mxCell id="wpGcuBxa0yiRDIrVlw6B-1" value="1.选择添加病床（）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="wpGcuBxa0yiRDIrVlw6B-20">
           <mxGeometry x="-0.0056" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
