@@ -65,16 +65,6 @@
             <mxPoint x="404.5" y="1475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-37" value="检查图书信息是否完整且格式正确" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="0.0016" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="718" y="1529" />
-            </Array>
-            <mxPoint x="404.2500000000002" y="1529" as="sourcePoint" />
-            <mxPoint x="1012.5" y="1529" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-38" value="提示不能为空或格式错误" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
