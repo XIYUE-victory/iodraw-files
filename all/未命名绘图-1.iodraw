@@ -31,7 +31,7 @@
             <mxPoint x="404.5" y="959" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-28" value="1.1获取病床分类列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GkTaQrSW37zhqM8958kx-28" value="1.1获取病床分类列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="370.0000000000002" y="1020.37" as="sourcePoint" />
