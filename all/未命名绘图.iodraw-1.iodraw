@@ -96,8 +96,8 @@
         <mxCell id="nJy7dzR17WLapN9tB9al-21" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 16px;&quot;&gt;病床分类&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1245.5" y="910" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nJy7dzR17WLapN9tB9al-22" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 16px;&quot;&gt;病床&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1402" y="910" width="118" height="30" as="geometry" />
+        <mxCell id="nJy7dzR17WLapN9tB9al-22" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 16px;&quot;&gt;病床信息&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1402" y="910" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJy7dzR17WLapN9tB9al-23" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1430" y="835" width="69" height="70" as="geometry" />
