@@ -5,12 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="kRQD5muyZg1S7h2Jpxo--0" value="1.选择修改病床()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kRQD5muyZg1S7h2Jpxo--16">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0016" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
             </Array>
             <mxPoint x="94.07142857142821" y="959" as="sourcePoint" />
             <mxPoint x="404.5" y="959" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kRQD5muyZg1S7h2Jpxo--1" value="1.1获取病床分类列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kRQD5muyZg1S7h2Jpxo--17">
@@ -295,7 +296,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRQD5muyZg1S7h2Jpxo--59" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2. 添加病床()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kRQD5muyZg1S7h2Jpxo--59" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2. 修改病床信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRQD5muyZg1S7h2Jpxo--60" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kRQD5muyZg1S7h2Jpxo--61">
