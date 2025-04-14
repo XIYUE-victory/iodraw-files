@@ -272,10 +272,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-96" value="2.1.1 修改病床名称（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.6;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GkTaQrSW37zhqM8958kx-96" value="2.1.1 修改病床名称（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.6;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-98">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="414.0000000000002" y="1300.02" as="sourcePoint" />
-            <mxPoint x="1084" y="1300" as="targetPoint" />
+            <mxPoint x="1070" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-97" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.46;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-98">
