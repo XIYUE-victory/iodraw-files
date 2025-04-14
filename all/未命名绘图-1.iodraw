@@ -22,7 +22,7 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-26" value="[图书名称不重复]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="GkTaQrSW37zhqM8958kx-24">
           <mxGeometry y="106" width="740" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-27" value="1.选择修改病床名称" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;shape=flexArrow;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-62">
+        <mxCell id="GkTaQrSW37zhqM8958kx-27" value="1.选择修改病床名称" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
@@ -286,6 +286,12 @@
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-98" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1080" y="1300" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-99" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1210" y="1380" as="sourcePoint" />
+            <mxPoint x="1290" y="1380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
