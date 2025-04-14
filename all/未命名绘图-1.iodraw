@@ -22,7 +22,7 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-26" value="[图书名称不重复]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="GkTaQrSW37zhqM8958kx-24">
           <mxGeometry y="106" width="740" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-27" value="选择添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GkTaQrSW37zhqM8958kx-27" value="选择添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
