@@ -188,7 +188,7 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="930" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-64">
+        <mxCell id="GkTaQrSW37zhqM8958kx-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-84" target="GkTaQrSW37zhqM8958kx-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="406" y="2220" as="sourcePoint" />
             <mxPoint x="406" y="930" as="targetPoint" />
@@ -254,6 +254,15 @@
             <mxPoint x="1080" y="1100" as="sourcePoint" />
             <mxPoint x="840" y="1100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-83" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="2220" as="sourcePoint" />
+            <mxPoint x="406" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-84" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="1120" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
