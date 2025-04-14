@@ -143,7 +143,7 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-46" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="840" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.001;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-21">
+        <mxCell id="GkTaQrSW37zhqM8958kx-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.001;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="990" as="sourcePoint" />
             <mxPoint x="85" y="930" as="targetPoint" />
@@ -191,8 +191,14 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-61" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap;&quot;&gt;修改病床名称控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1022.5" y="910" width="125" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-63" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.001;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-21" target="GkTaQrSW37zhqM8958kx-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="83" y="1696" as="sourcePoint" />
+            <mxPoint x="85" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="990" width="10" height="80" as="geometry" />
+          <mxGeometry x="80" y="930" width="10" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
