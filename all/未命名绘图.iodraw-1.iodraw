@@ -130,7 +130,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8FaG45Xdiuy4PGHjsC0v-29" value="1.1.1.1 病床分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=16;" edge="1" parent="1" target="8FaG45Xdiuy4PGHjsC0v-27">
+        <mxCell id="8FaG45Xdiuy4PGHjsC0v-29" value="1.1.1.1 病床监护分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=16;" edge="1" parent="1" target="8FaG45Xdiuy4PGHjsC0v-27">
           <mxGeometry x="-0.0028" width="80" relative="1" as="geometry">
             <mxPoint x="1280" y="1090" as="sourcePoint" />
             <mxPoint x="1270" y="1090" as="targetPoint" />
@@ -354,7 +354,7 @@
           <mxGeometry x="1275" y="1040" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8FaG45Xdiuy4PGHjsC0v-73" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;1.1.1 显示病床监护分类列表()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1010" width="60" height="30" as="geometry" />
+          <mxGeometry x="1170" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
