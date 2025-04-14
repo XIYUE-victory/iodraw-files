@@ -224,7 +224,7 @@
             <mxPoint x="1280" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-81" value="1.1.1.1 病床分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-76">
+        <mxCell id="GkTaQrSW37zhqM8958kx-81" value="1.1.1.1 病床分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-76">
           <mxGeometry x="-0.0028" width="80" relative="1" as="geometry">
             <mxPoint x="1280" y="1090" as="sourcePoint" />
             <mxPoint x="1270" y="1090" as="targetPoint" />
