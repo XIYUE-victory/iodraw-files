@@ -122,7 +122,7 @@
         <mxCell id="wpGcuBxa0yiRDIrVlw6B-104" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1000" width="10" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="wpGcuBxa0yiRDIrVlw6B-105" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1" target="wpGcuBxa0yiRDIrVlw6B-150">
+        <mxCell id="wpGcuBxa0yiRDIrVlw6B-105" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="0.0075" width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="1040" as="sourcePoint" />
             <mxPoint x="1280" y="1040" as="targetPoint" />
@@ -351,9 +351,6 @@
         </mxCell>
         <mxCell id="wpGcuBxa0yiRDIrVlw6B-149" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1275" y="1040" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="wpGcuBxa0yiRDIrVlw6B-150" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="1025" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
