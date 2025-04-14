@@ -1,0 +1,177 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.2081 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1002" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-0" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="20" width="150" height="1424" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-1" value="界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="20" width="150" height="1424" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-2" value="分类服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="538" y="20" width="150" height="1424" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-3" value="图书服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="738" y="20" width="150" height="1424" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-4" value="控制逻辑" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="938" y="20" width="150" height="1424" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-5" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="84" y="719" width="940" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-6" value="[图书信息为空或格式错误]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="Uav1gYd9e8IOwc1MbqIq-5">
+          <mxGeometry x="30" width="910" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-7" value="[图书信息完整且格式正确]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="Uav1gYd9e8IOwc1MbqIq-5">
+          <mxGeometry y="106" width="940" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-8" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="84" y="1147" width="740" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-9" value="[图书名称重复]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="Uav1gYd9e8IOwc1MbqIq-8">
+          <mxGeometry x="30" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-10" value="[图书名称不重复]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="Uav1gYd9e8IOwc1MbqIq-8">
+          <mxGeometry y="106" width="740" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-11" value="选择添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-0" target="Uav1gYd9e8IOwc1MbqIq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="259" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-12" value="获取图书分类列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="518" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-13" value="显示图书分类列表" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-2" target="Uav1gYd9e8IOwc1MbqIq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="664" y="237" />
+              <mxPoint x="664" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-14" value="返回图书分类列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-2" target="Uav1gYd9e8IOwc1MbqIq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="521" y="321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-15" value="显示图书分类列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="262" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-16" value="选择分类后添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-0" target="Uav1gYd9e8IOwc1MbqIq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="259" y="429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-17" value="查询图书信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-18" value="返回图书信息（若无则跳过）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-3" target="Uav1gYd9e8IOwc1MbqIq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-19" value="显示图书详细信息（若无则跳过）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="262" y="591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-20" value="填写图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-0" target="Uav1gYd9e8IOwc1MbqIq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="259" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-21" value="检查图书信息是否完整且格式正确" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="718" y="699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-22" value="提示不能为空或格式错误" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-4" target="Uav1gYd9e8IOwc1MbqIq-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-23" value="添加图书()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="901" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-24" value="添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-3" target="Uav1gYd9e8IOwc1MbqIq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-25" value="显示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="262" y="1009" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-26" value="提交图书信息后检查是否重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-0" target="Uav1gYd9e8IOwc1MbqIq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="259" y="1073" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-27" value="检查图书名称是否重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="1127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-28" value="显示图书名称重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-3" target="Uav1gYd9e8IOwc1MbqIq-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="466" y="1228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uav1gYd9e8IOwc1MbqIq-29" value="无重复，添加完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uav1gYd9e8IOwc1MbqIq-1" target="Uav1gYd9e8IOwc1MbqIq-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="262" y="1329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
