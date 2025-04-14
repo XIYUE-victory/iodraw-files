@@ -70,7 +70,7 @@
           <mxGeometry x="1050" y="830" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nJy7dzR17WLapN9tB9al-15" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 16px;&quot;&gt;查看病床信息控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1022.5" y="910" width="125" height="30" as="geometry" />
+          <mxGeometry x="1010" y="910" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJy7dzR17WLapN9tB9al-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;fontSize=16;" edge="1" parent="1" target="nJy7dzR17WLapN9tB9al-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -197,7 +197,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJy7dzR17WLapN9tB9al-40" value="3. 修改成功" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="nJy7dzR17WLapN9tB9al-40" value="3. 查看成功" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="0.0044" width="80" relative="1" as="geometry">
             <mxPoint x="1470" y="1580" as="sourcePoint" />
             <mxPoint x="1090" y="1580" as="targetPoint" />
