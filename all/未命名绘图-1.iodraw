@@ -362,6 +362,9 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-136" value="&lt;span style=&quot;font-size: 16px; text-align: left; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2.1 检测界面信息（）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GkTaQrSW37zhqM8958kx-137" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2.1.1 修改病床名称（）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="1270" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
