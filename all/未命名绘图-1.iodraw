@@ -20,7 +20,7 @@
             <mxPoint x="1080" y="1020.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-30" value="返回图书分类列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-84">
+        <mxCell id="GkTaQrSW37zhqM8958kx-30" value="返回图书分类列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;endArrow=block;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="630" y="1150" as="sourcePoint" />
