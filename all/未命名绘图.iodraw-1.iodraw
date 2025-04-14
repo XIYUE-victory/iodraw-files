@@ -183,8 +183,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8FaG45Xdiuy4PGHjsC0v-38" value="2.1.1.1.1 病床信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=16;" edge="1" parent="1" target="8FaG45Xdiuy4PGHjsC0v-36">
-          <mxGeometry x="0.004" width="80" relative="1" as="geometry">
+        <mxCell id="8FaG45Xdiuy4PGHjsC0v-38" value="2.1.1.1.1 病床监护数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=16;" edge="1" parent="1" target="8FaG45Xdiuy4PGHjsC0v-36">
+          <mxGeometry x="0.0031" width="80" relative="1" as="geometry">
             <mxPoint x="1470" y="1400" as="sourcePoint" />
             <mxPoint x="1360" y="1410" as="targetPoint" />
             <mxPoint as="offset" />
