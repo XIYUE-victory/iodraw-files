@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="GkTaQrSW37zhqM8958kx-16" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="850" width="150" height="1424" as="geometry" />
-        </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-17" value="界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="850" width="150" height="1424" as="geometry" />
         </mxCell>
@@ -37,11 +34,12 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-26" value="[图书名称不重复]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="GkTaQrSW37zhqM8958kx-24">
           <mxGeometry y="106" width="740" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-27" value="选择添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-16" target="GkTaQrSW37zhqM8958kx-17">
+        <mxCell id="GkTaQrSW37zhqM8958kx-27" value="选择添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
             </Array>
+            <mxPoint x="94.07142857142821" y="959" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-28" value="获取图书分类列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-18">
@@ -66,18 +64,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-31" value="显示图书分类列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-16">
+        <mxCell id="GkTaQrSW37zhqM8958kx-31" value="显示图书分类列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="262" y="1205" />
             </Array>
+            <mxPoint x="94.07142857142821" y="1204.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-32" value="选择分类后添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-16" target="GkTaQrSW37zhqM8958kx-17">
+        <mxCell id="GkTaQrSW37zhqM8958kx-32" value="选择分类后添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="1259" />
             </Array>
+            <mxPoint x="94.07142857142821" y="1259.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-33" value="查询图书信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-19">
@@ -94,18 +94,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-35" value="显示图书详细信息（若无则跳过）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-16">
+        <mxCell id="GkTaQrSW37zhqM8958kx-35" value="显示图书详细信息（若无则跳过）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="262" y="1421" />
             </Array>
+            <mxPoint x="94.07142857142821" y="1421" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-36" value="填写图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-16" target="GkTaQrSW37zhqM8958kx-17">
+        <mxCell id="GkTaQrSW37zhqM8958kx-36" value="填写图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="1475" />
             </Array>
+            <mxPoint x="94.07142857142821" y="1475" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-37" value="检查图书信息是否完整且格式正确" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-20">
@@ -115,11 +117,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-38" value="提示不能为空或格式错误" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-20" target="GkTaQrSW37zhqM8958kx-16">
+        <mxCell id="GkTaQrSW37zhqM8958kx-38" value="提示不能为空或格式错误" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="566" y="1630" />
             </Array>
+            <mxPoint x="94.07142857142821" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-39" value="添加图书()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-19">
@@ -136,18 +139,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-41" value="显示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-16">
+        <mxCell id="GkTaQrSW37zhqM8958kx-41" value="显示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="262" y="1839" />
             </Array>
+            <mxPoint x="94.07142857142821" y="1839" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-42" value="提交图书信息后检查是否重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-16" target="GkTaQrSW37zhqM8958kx-17">
+        <mxCell id="GkTaQrSW37zhqM8958kx-42" value="提交图书信息后检查是否重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="1903" />
             </Array>
+            <mxPoint x="94.07142857142821" y="1903" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-43" value="检查图书名称是否重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-19">
@@ -157,18 +162,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-44" value="显示图书名称重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-19" target="GkTaQrSW37zhqM8958kx-16">
+        <mxCell id="GkTaQrSW37zhqM8958kx-44" value="显示图书名称重复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="466" y="2058" />
             </Array>
+            <mxPoint x="94.07142857142821" y="2058" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-45" value="无重复，添加完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17" target="GkTaQrSW37zhqM8958kx-16">
+        <mxCell id="GkTaQrSW37zhqM8958kx-45" value="无重复，添加完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="262" y="2159" />
             </Array>
+            <mxPoint x="94.07142857142821" y="2159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
