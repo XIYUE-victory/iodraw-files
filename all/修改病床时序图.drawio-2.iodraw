@@ -47,7 +47,7 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-54" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 16px;&quot;&gt;修改病床名称界面&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="580" y="905" width="91" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-55" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-145" target="GkTaQrSW37zhqM8958kx-54" edge="1">
+        <mxCell id="GkTaQrSW37zhqM8958kx-55" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-pJ8RF_7VQoTUQPZEHdb-3" target="GkTaQrSW37zhqM8958kx-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="626" y="1880" as="sourcePoint" />
             <mxPoint x="630" y="940" as="targetPoint" />
@@ -331,6 +331,15 @@
               <mxPoint x="690" y="1730" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-pJ8RF_7VQoTUQPZEHdb-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-145" target="-pJ8RF_7VQoTUQPZEHdb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="626" y="1680" as="sourcePoint" />
+            <mxPoint x="626" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pJ8RF_7VQoTUQPZEHdb-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="1090" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
