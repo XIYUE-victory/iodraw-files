@@ -332,10 +332,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJy7dzR17WLapN9tB9al-69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=16;" parent="1" source="nJy7dzR17WLapN9tB9al-66" target="nJy7dzR17WLapN9tB9al-70" edge="1">
+        <mxCell id="nJy7dzR17WLapN9tB9al-69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="626" y="1680" as="sourcePoint" />
-            <mxPoint x="626" y="930" as="targetPoint" />
+            <mxPoint x="630" y="1600" as="sourcePoint" />
+            <mxPoint x="630" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nJy7dzR17WLapN9tB9al-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -354,7 +354,7 @@
           <mxGeometry x="1150" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="idQJmgoqc9BTr0JmPoKH-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="645" y="1340" width="10" height="40" as="geometry" />
+          <mxGeometry x="650" y="1260" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
