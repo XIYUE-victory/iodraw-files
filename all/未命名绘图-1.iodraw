@@ -50,10 +50,10 @@
         <mxCell id="GkTaQrSW37zhqM8958kx-32" value="选择分类后添加图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="259" y="1259" />
+              <mxPoint x="248.93" y="1230" />
             </Array>
-            <mxPoint x="94.07142857142821" y="1259.0000000000002" as="sourcePoint" />
-            <mxPoint x="404.5" y="1259" as="targetPoint" />
+            <mxPoint x="84.00142857142822" y="1230.0000000000002" as="sourcePoint" />
+            <mxPoint x="394.43" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-35" value="显示图书详细信息（若无则跳过）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
