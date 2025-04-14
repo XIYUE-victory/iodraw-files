@@ -200,7 +200,7 @@
             <mxPoint x="85" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-49" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GkTaQrSW37zhqM8958kx-49" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="835" width="86" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-50" value="Boundary Object" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
