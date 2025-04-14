@@ -174,7 +174,7 @@
         </mxCell>
         <mxCell id="GkTaQrSW37zhqM8958kx-83" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="GkTaQrSW37zhqM8958kx-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="404" y="1220" as="sourcePoint" />
+            <mxPoint x="404" y="1280" as="sourcePoint" />
             <mxPoint x="406" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -193,12 +193,9 @@
             <mxPoint x="404" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-94" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="404" y="1260" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GkTaQrSW37zhqM8958kx-96" value="2.1.1 修改病床名称（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GkTaQrSW37zhqM8958kx-94">
+        <mxCell id="GkTaQrSW37zhqM8958kx-96" value="2.1.1 修改病床名称（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="424.0000000000002" y="1320" as="sourcePoint" />
+            <mxPoint x="414" y="1300" as="sourcePoint" />
             <mxPoint x="1080" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
