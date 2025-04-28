@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.2081 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1195" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2498" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -69,7 +69,7 @@
         <mxCell id="kRQD5muyZg1S7h2Jpxo--13" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=21;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1050" y="830" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kRQD5muyZg1S7h2Jpxo--14" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 21px;&quot;&gt;修改病床名称控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="kRQD5muyZg1S7h2Jpxo--14" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 21px;&quot;&gt;操控设备控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1010" y="910" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRQD5muyZg1S7h2Jpxo--15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;fontSize=21;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kRQD5muyZg1S7h2Jpxo--16" edge="1">
@@ -130,7 +130,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRQD5muyZg1S7h2Jpxo--28" value="1.1.1.1 病床分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kRQD5muyZg1S7h2Jpxo--26" edge="1" source="kRQD5muyZg1S7h2Jpxo--71">
+        <mxCell id="kRQD5muyZg1S7h2Jpxo--28" value="1.1.1.1 设备分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kRQD5muyZg1S7h2Jpxo--26" edge="1" source="kRQD5muyZg1S7h2Jpxo--71">
           <mxGeometry x="-0.0009" width="80" relative="1" as="geometry">
             <mxPoint x="1280" y="1090" as="sourcePoint" />
             <mxPoint x="1270" y="1090" as="targetPoint" />
