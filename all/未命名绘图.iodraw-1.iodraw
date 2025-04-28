@@ -295,7 +295,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="13kHNWjyp3tarvO0zsro-133" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2. 操控设备信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="13kHNWjyp3tarvO0zsro-133" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2. 查看设备信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="290" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="13kHNWjyp3tarvO0zsro-134" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=21;" edge="1" parent="1" target="13kHNWjyp3tarvO0zsro-135">
