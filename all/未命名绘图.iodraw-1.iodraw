@@ -131,7 +131,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JGWhojiN_X9v1EalHje-29" value="1.1.1.1 设备分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="3JGWhojiN_X9v1EalHje-71" target="3JGWhojiN_X9v1EalHje-27">
+        <mxCell id="3JGWhojiN_X9v1EalHje-29" value="1.1.1.1 监护分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="3JGWhojiN_X9v1EalHje-71" target="3JGWhojiN_X9v1EalHje-27">
           <mxGeometry x="0.0034" width="80" relative="1" as="geometry">
             <mxPoint x="1280" y="1090" as="sourcePoint" />
             <mxPoint x="1270" y="1090" as="targetPoint" />
@@ -178,7 +178,7 @@
           <mxGeometry x="1080" y="1320" width="10" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3JGWhojiN_X9v1EalHje-37" value="2.1.1.1 显示设备详细信息()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=21;" edge="1" parent="1">
-          <mxGeometry x="0.0053" width="80" relative="1" as="geometry">
+          <mxGeometry x="0.0028" width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="1350" as="sourcePoint" />
             <mxPoint x="1470" y="1350" as="targetPoint" />
             <mxPoint as="offset" />
