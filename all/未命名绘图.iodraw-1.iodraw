@@ -57,7 +57,7 @@
         <mxCell id="3JGWhojiN_X9v1EalHje-11" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="794" y="840" width="86" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3JGWhojiN_X9v1EalHje-12" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 21px;&quot;&gt;设备列表界面&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="3JGWhojiN_X9v1EalHje-12" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 21px;&quot;&gt;实时数据列表界面&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="790" y="910" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JGWhojiN_X9v1EalHje-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=21;" edge="1" parent="1">
@@ -69,7 +69,7 @@
         <mxCell id="3JGWhojiN_X9v1EalHje-14" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1050" y="830" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3JGWhojiN_X9v1EalHje-15" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 21px;&quot;&gt;查看设备信息控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="3JGWhojiN_X9v1EalHje-15" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 21px;&quot;&gt;查看实时数据信息控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1010" y="910" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JGWhojiN_X9v1EalHje-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;fontSize=21;" edge="1" parent="1" target="3JGWhojiN_X9v1EalHje-17">
