@@ -130,8 +130,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-29" value="1.1.1.1 设备分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="Xyrxd3dM3LfTZ7iljGW1-71" target="Xyrxd3dM3LfTZ7iljGW1-27">
-          <mxGeometry x="-0.0009" width="80" relative="1" as="geometry">
+        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-29" value="1.1.1.1 阈值分类列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="Xyrxd3dM3LfTZ7iljGW1-71" target="Xyrxd3dM3LfTZ7iljGW1-27">
+          <mxGeometry x="0.0013" width="80" relative="1" as="geometry">
             <mxPoint x="1280" y="1090" as="sourcePoint" />
             <mxPoint x="1270" y="1090" as="targetPoint" />
             <mxPoint as="offset" />
@@ -177,7 +177,7 @@
           <mxGeometry x="1080" y="1320" width="10" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-37" value="2.1.1.1 显示设备详细信息()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=21;" edge="1" parent="1">
-          <mxGeometry x="0.0053" width="80" relative="1" as="geometry">
+          <mxGeometry x="0.0031" width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="1350" as="sourcePoint" />
             <mxPoint x="1470" y="1350" as="targetPoint" />
             <mxPoint as="offset" />
@@ -352,7 +352,7 @@
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-71" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1325" y="1040" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-72" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;1.1.1 显示设备分类列表()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-72" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;1.1.1 显示阈值分类列表()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1181" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=21;" edge="1" parent="1" source="Xyrxd3dM3LfTZ7iljGW1-65" target="Xyrxd3dM3LfTZ7iljGW1-74">
