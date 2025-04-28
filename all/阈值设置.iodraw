@@ -183,7 +183,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-38" value="2.1.1.1.1 设备信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;" edge="1" parent="1" target="Xyrxd3dM3LfTZ7iljGW1-36">
+        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-38" value="2.1.1.1.1 阈值信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;" edge="1" parent="1" target="Xyrxd3dM3LfTZ7iljGW1-36">
           <mxGeometry x="0.0031" width="80" relative="1" as="geometry">
             <mxPoint x="1470" y="1400" as="sourcePoint" />
             <mxPoint x="1360" y="1410" as="targetPoint" />
@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-39" value="2.1.1.3 操控设备信息()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=21;" edge="1" parent="1">
-          <mxGeometry x="0.0053" width="80" relative="1" as="geometry">
+          <mxGeometry x="0.0031" width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="1520" as="sourcePoint" />
             <mxPoint x="1470" y="1520" as="targetPoint" />
             <mxPoint as="offset" />
@@ -234,8 +234,8 @@
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1085" y="1450" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-48" value="2.1.1.2 检查设备信息()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=21;" edge="1" parent="1" target="Xyrxd3dM3LfTZ7iljGW1-47">
-          <mxGeometry x="0.0061" relative="1" as="geometry">
+        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-48" value="2.1.1.2 检查阈值设置信息()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=21;" edge="1" parent="1" target="Xyrxd3dM3LfTZ7iljGW1-47">
+          <mxGeometry x="0.0125" relative="1" as="geometry">
             <mxPoint x="1090" y="1430" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1160" y="1430" />
