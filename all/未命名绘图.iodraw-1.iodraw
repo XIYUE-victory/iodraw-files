@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="13kHNWjyp3tarvO0zsro-75" value="1.选择操控设备控制信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="13kHNWjyp3tarvO0zsro-91">
+        <mxCell id="13kHNWjyp3tarvO0zsro-75" value="1.选择查看设备控制信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="13kHNWjyp3tarvO0zsro-91">
           <mxGeometry x="-0.0007" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
