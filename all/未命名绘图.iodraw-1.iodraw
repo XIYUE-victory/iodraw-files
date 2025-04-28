@@ -14,11 +14,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JGWhojiN_X9v1EalHje-2" value="1.1获取设备开关列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="3JGWhojiN_X9v1EalHje-18">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="3JGWhojiN_X9v1EalHje-2" value="1.1获取监护分类列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="3JGWhojiN_X9v1EalHje-18">
+          <mxGeometry x="-0.0002" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="370.0000000000002" y="1020.37" as="sourcePoint" />
             <mxPoint x="1080" y="1020.37" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3JGWhojiN_X9v1EalHje-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=21;" vertex="1" parent="1">
@@ -295,7 +296,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JGWhojiN_X9v1EalHje-59" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2. 查看设备信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="3JGWhojiN_X9v1EalHje-59" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2. 查看实时数据信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="290" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JGWhojiN_X9v1EalHje-60" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=21;" edge="1" parent="1" target="3JGWhojiN_X9v1EalHje-61">
