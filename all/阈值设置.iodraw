@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-1" value="1.选择操控设备控制信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="Xyrxd3dM3LfTZ7iljGW1-17">
-          <mxGeometry x="-0.0016" relative="1" as="geometry">
+          <mxGeometry x="-0.005" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
             </Array>
@@ -14,7 +14,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-2" value="1.1获取设备开关列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="Xyrxd3dM3LfTZ7iljGW1-18">
+        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-2" value="1.1获取阈值设置列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="Xyrxd3dM3LfTZ7iljGW1-18">
           <mxGeometry x="0.0015" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="370.0000000000002" y="1020.37" as="sourcePoint" />
