@@ -93,10 +93,10 @@
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-20" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1295.5" y="835" width="69" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-21" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;设备分类&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-21" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;阈值分类&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1283.25" y="910" width="93.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-22" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 21px;&quot;&gt;设备信息&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-22" value="&lt;div style=&quot;text-align: center; font-size: 21px;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 21px;&quot;&gt;阈值信息&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1431" y="910" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-23" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=21;" vertex="1" parent="1">
