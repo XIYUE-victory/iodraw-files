@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kRQD5muyZg1S7h2Jpxo--37" value="2.1.1.1.1 病床信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kRQD5muyZg1S7h2Jpxo--35" edge="1">
-          <mxGeometry x="0.004" width="80" relative="1" as="geometry">
+          <mxGeometry x="0.0053" width="80" relative="1" as="geometry">
             <mxPoint x="1470" y="1400" as="sourcePoint" />
             <mxPoint x="1360" y="1410" as="targetPoint" />
             <mxPoint as="offset" />
@@ -234,7 +234,7 @@
         <mxCell id="kRQD5muyZg1S7h2Jpxo--46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1085" y="1450" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kRQD5muyZg1S7h2Jpxo--47" value="2.1.1.2 检查病床信息()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kRQD5muyZg1S7h2Jpxo--46" edge="1">
+        <mxCell id="kRQD5muyZg1S7h2Jpxo--47" value="2.1.1.2 检查设备信息()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kRQD5muyZg1S7h2Jpxo--46" edge="1">
           <mxGeometry x="0.0061" relative="1" as="geometry">
             <mxPoint x="1090" y="1430" as="sourcePoint" />
             <Array as="points">
