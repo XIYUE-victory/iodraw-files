@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kRQD5muyZg1S7h2Jpxo--71" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=21;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1300" y="1040" width="10" height="50" as="geometry" />
+          <mxGeometry x="1325" y="1050" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kRQD5muyZg1S7h2Jpxo--72" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;1.1.1 显示病床分类列表()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1150" y="1010" width="60" height="30" as="geometry" />
