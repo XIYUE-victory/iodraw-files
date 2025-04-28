@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="kRQD5muyZg1S7h2Jpxo--0" value="1.选择修改病床信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kRQD5muyZg1S7h2Jpxo--16" edge="1">
+        <mxCell id="kRQD5muyZg1S7h2Jpxo--0" value="1.选择操控设备控制信息()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kRQD5muyZg1S7h2Jpxo--16" edge="1">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="259" y="959" />
@@ -14,7 +14,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRQD5muyZg1S7h2Jpxo--1" value="1.1获取病床分类列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kRQD5muyZg1S7h2Jpxo--17" edge="1">
+        <mxCell id="kRQD5muyZg1S7h2Jpxo--1" value="1.1获取设备开关列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kRQD5muyZg1S7h2Jpxo--17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="370.0000000000002" y="1020.37" as="sourcePoint" />
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kRQD5muyZg1S7h2Jpxo--10" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="790" y="840" width="86" height="70" as="geometry" />
+          <mxGeometry x="794" y="840" width="86" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kRQD5muyZg1S7h2Jpxo--11" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 16px;&quot;&gt;病床列表界面&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="910" width="80" height="30" as="geometry" />
