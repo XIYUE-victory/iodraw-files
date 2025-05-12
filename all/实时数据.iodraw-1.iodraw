@@ -184,7 +184,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JGWhojiN_X9v1EalHje-38" value="2.1.1.1.1 实时数据信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;" parent="1" target="3JGWhojiN_X9v1EalHje-36" edge="1">
+        <mxCell id="3JGWhojiN_X9v1EalHje-38" value="10. 实时数据信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;dashPattern=8 8;fontSize=21;" parent="1" target="3JGWhojiN_X9v1EalHje-36" edge="1">
           <mxGeometry x="0.0028" width="80" relative="1" as="geometry">
             <mxPoint x="1470" y="1400" as="sourcePoint" />
             <mxPoint x="1360" y="1410" as="targetPoint" />
