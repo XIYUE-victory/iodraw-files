@@ -14,7 +14,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-2" value="1.1获取阈值设置列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" parent="1" source="Xyrxd3dM3LfTZ7iljGW1-18" edge="1">
+        <mxCell id="Xyrxd3dM3LfTZ7iljGW1-2" value="2.获取阈值设置列表()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" parent="1" source="Xyrxd3dM3LfTZ7iljGW1-18" edge="1">
           <mxGeometry x="0.0015" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="370.0000000000002" y="1020.37" as="sourcePoint" />
