@@ -176,7 +176,7 @@
         <mxCell id="13kHNWjyp3tarvO0zsro-110" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="1080" y="1320" width="10" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="13kHNWjyp3tarvO0zsro-111" value="8. 显示设备详细信息()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=21;" parent="1" edge="1">
+        <mxCell id="13kHNWjyp3tarvO0zsro-111" value="9. 显示设备详细信息()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=21;" parent="1" edge="1">
           <mxGeometry x="0.0075" width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="1350" as="sourcePoint" />
             <mxPoint x="1470" y="1350" as="targetPoint" />
@@ -310,7 +310,7 @@
         <mxCell id="13kHNWjyp3tarvO0zsro-136" value="&lt;span style=&quot;font-size: 21px; text-align: left; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;7. 检测界面信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="620" y="1200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="13kHNWjyp3tarvO0zsro-137" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;7. 查看设备信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="13kHNWjyp3tarvO0zsro-137" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;8. 查看设备信息()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="810" y="1270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="13kHNWjyp3tarvO0zsro-138" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;fontSize=21;" parent="1" source="13kHNWjyp3tarvO0zsro-135" target="13kHNWjyp3tarvO0zsro-139" edge="1">
