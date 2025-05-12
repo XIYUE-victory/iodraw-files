@@ -350,11 +350,6 @@
             <mxPoint x="1279" y="943" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dp285T-hHmE7qoYfBviE-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xyrxd3dM3LfTZ7iljGW1-70">
-          <mxGeometry x="0.4279" y="-6" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Xyrxd3dM3LfTZ7iljGW1-71" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="1325" y="1040" width="10" height="60" as="geometry" />
         </mxCell>
