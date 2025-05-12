@@ -177,7 +177,7 @@
         <mxCell id="3JGWhojiN_X9v1EalHje-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="1080" y="1320" width="10" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="3JGWhojiN_X9v1EalHje-37" value="2.1.1.1 显示实时数据详细信息()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=21;" parent="1" edge="1">
+        <mxCell id="3JGWhojiN_X9v1EalHje-37" value="9. 显示实时数据详细信息()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=21;" parent="1" edge="1">
           <mxGeometry x="0.0028" width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="1350" as="sourcePoint" />
             <mxPoint x="1470" y="1350" as="targetPoint" />
